@@ -22,7 +22,7 @@ animate.css
 
 ## Remind
 
-production secret key need create by yourself.  
+secret.yml and database.yml need create by yourself.  
 
 ## Contributing
 
