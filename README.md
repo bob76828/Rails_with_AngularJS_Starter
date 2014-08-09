@@ -22,7 +22,7 @@ animate.css
 
 ## Remind
 
-secret.yml and database.yml need create by yourself.  
+secrets.yml and database.yml need create by yourself.  
 
 ## Contributing
 
