@@ -34,6 +34,12 @@ gem 'underscore-rails'
 gem 'ejs'
 gem 'devise'
 
+gem 'capistrano', '3.1.0'
+gem 'capistrano-rails', '~> 1.1.0'
+gem 'capistrano-bundler'
+gem 'capistrano-rvm'
+
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

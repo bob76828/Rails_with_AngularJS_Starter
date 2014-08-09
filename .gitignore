@@ -16,3 +16,7 @@
 /.idea
 /db/database.sqlite
 /public/assets
+/config/database.yml
+/config/deploy
+/config/deploy.rb
+/Capfile
