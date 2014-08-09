@@ -34,7 +34,7 @@ production secret key need create by yourself.
 
 ## Issues
 
-If you have problems, please create a [Github issue](https://github.com/xdite/Rails_with_AngularJS_Starter/issues).
+If you have problems, please create a [Github issue](https://github.com/bob76828/Rails_with_AngularJS_Starter/issues).
 
 ## Credits
 
