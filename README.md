@@ -12,6 +12,7 @@ rails 4.1.1
 bootstrap-sass  
 font-awesome-rails  
 angularjs-rails  
+ngannotate-rails  
 underscore-rails  
 ejs  
 devise  
@@ -43,6 +44,7 @@ Rails_with_AngularJS_Starter is maintained and funded by [@bob76828](http://gith
 ## References
 
 [https://angularjs.org/](https://angularjs.org/)  
+[https://github.com/kikonen/ngannotate-rails](https://github.com/kikonen/ngannotate-rails)
 [http://angular-ui.github.io/bootstrap/](http://angular-ui.github.io/bootstrap/)  
 [http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/)  
 [https://github.com/plataformatec/devise](https://github.com/plataformatec/devise)  
