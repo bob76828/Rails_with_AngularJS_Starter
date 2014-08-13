@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  devise_for :users, :skip => ['sessions','passwords','registrations']
+  devise_for :user, :skip => ['sessions','passwords','registrations']
   devise_scope :user do
     post "auth/sign_in", to: "auth/sessions#create", :as => :user_sign_in
     delete "auth/sign_out", to: "auth/sessions#destroy", :as => :user_sign_out
